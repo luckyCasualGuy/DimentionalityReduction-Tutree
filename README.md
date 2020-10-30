@@ -3,7 +3,7 @@ Recognizing patterns from high-dimensional feature space is what Machine Learnin
 
 With Increase in dimensions, computation cost builds up exponentially. The feature space becomes sparse and it becomes challenging for Machine Learning models to get solid accuracies.  
 
-If we consider columns of our dataset as input features. Inclusion of more columns will result in expansion of volume of our feature space. The points in the feature space i.e. the rows of our dataset will now represent a small and non-representative sample of our database. Our algorithm will not accordingly fit the dataset and will end up with feeble accuracies due to overfitting.  
+If we consider columns of our dataset as input features. Inclusion of more columns will result in expansion of volume of our feature space. The points in the feature space i.e. the rows of our dataset will now represent a small and non-representative sample of our database. Our algorithm will not fit the dataset accordingly and will end up with nominal accuracies due to overfitting.  
 
 ### Thus, simply put Dimensionality Reduction is techniques / methods that are used to cut down the input features from our training dataset.  
 ## Frequently used Dimensionality Reduction techniques include:  
